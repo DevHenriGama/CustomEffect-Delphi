@@ -1,0 +1,13 @@
+unit CustomEffect.Interfaces;
+
+interface
+
+type
+  TCustomEffect = interface
+    ['{30DACCFC-F627-48D7-8761-9AAEFB9BF9AC}']
+
+  end;
+
+implementation
+
+end.
